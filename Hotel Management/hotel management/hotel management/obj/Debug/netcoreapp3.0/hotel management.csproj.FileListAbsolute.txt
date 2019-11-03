@@ -1,0 +1,11 @@
+C:\Users\arsl9\Desktop\C#\Hotel Management\hotel management\hotel management\bin\Debug\netcoreapp3.0\hotel management.exe
+C:\Users\arsl9\Desktop\C#\Hotel Management\hotel management\hotel management\bin\Debug\netcoreapp3.0\hotel management.deps.json
+C:\Users\arsl9\Desktop\C#\Hotel Management\hotel management\hotel management\bin\Debug\netcoreapp3.0\hotel management.runtimeconfig.json
+C:\Users\arsl9\Desktop\C#\Hotel Management\hotel management\hotel management\bin\Debug\netcoreapp3.0\hotel management.runtimeconfig.dev.json
+C:\Users\arsl9\Desktop\C#\Hotel Management\hotel management\hotel management\bin\Debug\netcoreapp3.0\hotel management.dll
+C:\Users\arsl9\Desktop\C#\Hotel Management\hotel management\hotel management\bin\Debug\netcoreapp3.0\hotel management.pdb
+C:\Users\arsl9\Desktop\C#\Hotel Management\hotel management\hotel management\obj\Debug\netcoreapp3.0\hotel management.csprojAssemblyReference.cache
+C:\Users\arsl9\Desktop\C#\Hotel Management\hotel management\hotel management\obj\Debug\netcoreapp3.0\hotel management.AssemblyInfoInputs.cache
+C:\Users\arsl9\Desktop\C#\Hotel Management\hotel management\hotel management\obj\Debug\netcoreapp3.0\hotel management.AssemblyInfo.cs
+C:\Users\arsl9\Desktop\C#\Hotel Management\hotel management\hotel management\obj\Debug\netcoreapp3.0\hotel management.dll
+C:\Users\arsl9\Desktop\C#\Hotel Management\hotel management\hotel management\obj\Debug\netcoreapp3.0\hotel management.pdb
